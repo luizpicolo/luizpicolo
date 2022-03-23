@@ -1,4 +1,4 @@
-# Hi, my name is Luiz Picolo 👋
+# Hi, my name is Luiz Picolo 👋 👋
 
 ### Let's Play? Submit your PR with your move.
 
