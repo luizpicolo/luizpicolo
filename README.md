@@ -7,7 +7,7 @@
        +---+---+---+
     2      | X | 
        +---+---+---+
-    3      |   | O 
+    3    O |   | O 
 
 ### How to play
 
@@ -18,3 +18,4 @@ Make the movement above and leave the coordinates below in the table. For exampl
 |@luizpicolo |  2:2:X   |         |        |          |
 |@claus      |  3:3:O   |         |        |          |
 |@luizpicolo |  1:1:X   |         |        |          |
+|@claus      |  1:3:O   |         |        |          |
