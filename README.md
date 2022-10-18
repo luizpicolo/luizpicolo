@@ -3,7 +3,7 @@
 ### Let's Play? Submit your PR with your move.
 
         1    2    3
-    1    X |   | 
+    1    X |   | X
        +---+---+---+
     2      | X | 
        +---+---+---+
@@ -19,3 +19,4 @@ Make the movement above and leave the coordinates below in the table. For exampl
 |@claus      |  3:3:O   |         |        |          |
 |@luizpicolo |  1:1:X   |         |        |          |
 |@claus      |  1:3:O   |         |        |          |
+|@CaioHPerlin|  1:3:X   |         |        |          |
