@@ -3,11 +3,11 @@
 ### Let's Play? Submit your PR with your move.
 
         1    2    3
-    1    X |   | X
+    1      |   |  
        +---+---+---+
     2      | X | 
        +---+---+---+
-    3    O | O | O 
+    3      |   |   
 
 ### How to play
 
@@ -16,8 +16,3 @@ Make the movement above and leave the coordinates below in the table. For exampl
 |Player      | Jogada   |   Won   |  Lost  |   Tied   |
 |------------|:--------:|:-------:|:------:|:--------:|
 |@luizpicolo |  2:2:X   |         |        |          |
-|@claus      |  3:3:O   |         |        |          |
-|@luizpicolo |  1:1:X   |         |        |          |
-|@claus      |  1:3:O   |         |        |          |
-|@CaioHPerlin|  1:3:X   |         |        |          |
-|@Mooniemd   |  3:2:O   |    O    |        |          |
