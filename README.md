@@ -16,3 +16,9 @@ Make the movement above and leave the coordinates below in the table. For exampl
 |Player      | Jogada   |   Won   |  Lost  |   Tied   |
 |------------|:--------:|:-------:|:------:|:--------:|
 |@luizpicolo |  2:2:X   |         |        |          |
+
+### Winners
+
+|Player      | Game   |   
+|------------|:--------:|
+|@Mooniemd   |  [Finished Game]([https://](https://github.com/luizpicolo/luizpicolo/blob/master/finished-games/1.md))  | 
