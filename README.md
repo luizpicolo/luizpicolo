@@ -21,4 +21,4 @@ Make the movement above and leave the coordinates below in the table. For exampl
 
 |Player      | Game   |   
 |------------|:--------:|
-|@Mooniemd   |  ![Finished Game]([https://](https://github.com/luizpicolo/luizpicolo/blob/master/finished-games/1.md))  | 
+|@Mooniemd   |  ![Finished Game](https://github.com/luizpicolo/luizpicolo/blob/master/finished-games/1.md)  | 
