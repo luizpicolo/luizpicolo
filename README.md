@@ -3,7 +3,7 @@
 ### Let's Play? Submit your PR with your move.
 
         1    2    3
-    1      |   |  
+    1      | O |  
        +---+---+---+
     2      | X | 
        +---+---+---+
@@ -16,6 +16,7 @@ Make the movement above and leave the coordinates below in the table. For exampl
 |Player      | Jogada   |   Won   |  Lost  |   Tied   |
 |------------|:--------:|:-------:|:------:|:--------:|
 |@luizpicolo |  2:2:X   |         |        |          |
+|@lulunac27a |  1:2:O   |         |        |          |
 
 ### Winners
 
